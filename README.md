@@ -1,2 +1,2 @@
-# Mata-Moscquitos
+# Mata-Mosquitos
 jogo Criado para estudos
